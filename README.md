@@ -8,9 +8,7 @@ Welcome to my profile page! Feel free to look through my respository.
 
 I started my love for programming when I started playing games at the age of 11.
 
-![Hasan's github stats](https://github-readme-stats.vercel.app/api?username=Lmao5&count_private=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lmao5)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
+![Hasan's github stats](https://github-readme-stats.vercel.app/api?username=Lmao5&count_private=true&theme=dark&show_icons=true)
 
 <!--
 **Lmao5/Lmao5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
