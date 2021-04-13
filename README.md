@@ -8,7 +8,7 @@ Welcome to my profile page! Feel free to look through my repositories.
 
 I started my love for programming when I started playing games at the age of 11.
 
-I aim to specialise in AI (Artificial Intelligence) in [NYP](https://www.nyp.edu.sg/).
+I am currently specialising in AI (Artificial Intelligence) in [NYP](https://www.nyp.edu.sg/).
 
 ![Hasan's github stats](https://github-readme-stats.vercel.app/api?username=Lmao5&count_private=true&theme=dark&show_icons=true)
 
