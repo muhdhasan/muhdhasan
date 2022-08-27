@@ -10,9 +10,9 @@ I started my love for programming when I started playing games at the age of 11.
 
 I am currently specialising in AI (Artificial Intelligence) in [NYP](https://www.nyp.edu.sg/).
 
-![Hasan's github stats](https://github-readme-stats.vercel.app/api?username=Lmao5&count_private=true&theme=algolia&show_icons=true)
+![Hasan's github stats](https://github-readme-stats.vercel.app/api?username=muhdhasan&count_private=true&theme=algolia&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lmao5&layout=compact&count_private=true&theme=algolia)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhdhasan&layout=compact&count_private=true&theme=algolia)
 <!--
 **Lmao5/Lmao5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
