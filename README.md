@@ -6,9 +6,11 @@
 
 Welcome to my profile page! Feel free to look through my repositories.
 
-I started my love for programming when I started playing games at the age of 11.
+I became passionate for programming when I started playing games at the age of 11.
 
-I am currently specialising in AI (Artificial Intelligence) in [NYP](https://www.nyp.edu.sg/).
+Graduated in April 2022 with a [Diploma in Information Technology](https://www.nyp.edu.sg/schools/sit/full-time-courses/information-technology.html) at [Nanyang Polytechnic](https://www.nyp.edu.sg/).
+
+You may contact me via my [LinkedIn](https://www.linkedin.com/in/muhammad-hasan-455636203/).
 
 ![Hasan's github stats](https://github-readme-stats.vercel.app/api?username=muhdhasan&count_private=true&theme=algolia&show_icons=true)
 
