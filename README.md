@@ -14,7 +14,7 @@ You may contact me via my [LinkedIn](https://www.linkedin.com/in/muhammad-hasan-
 
 ![Hasan's github stats](https://github-readme-stats.vercel.app/api?username=muhdhasan&count_private=true&theme=algolia&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhdhasan&layout=compact&count_private=true&theme=algolia)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhdhasan&layout=compact&count_private=true&theme=algolia&hide=jupyter%20notebook)
 <!--
 **Lmao5/Lmao5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
