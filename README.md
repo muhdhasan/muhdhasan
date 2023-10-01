@@ -9,8 +9,13 @@ Graduated in April 2022 with a [Diploma in Information Technology](https://www.n
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hasan-455636203/)
 
-## My GitHub Stats!
+## Tech
+### What I know!
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,py,mysql,sequelize,react,aws)](https://skillicons.dev)
+### What I'm learning now!
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
 
+## My GitHub Stats!
 ![Hasan's github stats](https://github-readme-stats.vercel.app/api?username=muhdhasan&count_private=true&theme=algolia&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhdhasan&layout=compact&count_private=true&theme=algolia&hide=jupyter%20notebook)
