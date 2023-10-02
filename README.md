@@ -7,7 +7,7 @@ I became passionate for programming when I started playing games at the age of 1
 Graduated in April 2022 with a [Diploma in Information Technology](https://www.nyp.edu.sg/schools/sit/full-time-courses/information-technology.html) at [Nanyang Polytechnic](https://www.nyp.edu.sg/).
 
 ## Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hasan-455636203/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hasan-bin-suwandi/)
 
 ## Tech
 ### What I know!
