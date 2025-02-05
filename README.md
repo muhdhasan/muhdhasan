@@ -11,7 +11,7 @@ Graduated in April 2022 with a [Diploma in Information Technology](https://www.n
 
 ## Tech
 ### What I know!
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,py,mysql,sequelize,react,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,py,mysql,sequelize,react,aws,cypress)](https://skillicons.dev)
 ### What I'm learning now!
 [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 
